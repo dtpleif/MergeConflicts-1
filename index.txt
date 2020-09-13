@@ -1,1 +1,3 @@
 Workflow 1 - MergeConflicts - Course Assignment. 
+
+Her har jeg gjort endring i tittelen.
